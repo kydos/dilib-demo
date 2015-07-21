@@ -1,0 +1,11 @@
+module dilib {
+  module demo {
+    struct DevicePosition {
+      string did;
+      float lat;
+      float lon;
+      float lev;
+    };
+    #pragma keylist DevicePosition did  
+  };
+};

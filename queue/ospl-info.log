@@ -1,0 +1,892 @@
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqc <53269>
+Thread      : spliced 10299b000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437413060.060224000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqc <53269>
+Thread      : spliced 10299b000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437413060.061721000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53269>
+Thread      : spliced 10299b000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437413060.062508000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqc <53269>
+Thread      : cmsoap 102f07000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437413060.074457000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : SOAP service is reachable via port 56071
+Node        : vega
+Process     : sqc <53269>
+Thread      : cmsoap 102f07000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437413060.076706000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : Could not find a network interface ip address
+Node        : vega
+Process     : sqc <53269>
+Thread      : cmsoap 102f07000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/508/0/1437413060.076865000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53269>
+Thread      : cmsoap 102f07000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437413060.076932000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqc <53269>
+Thread      : durability 10338c000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437413060.079776000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqc <53269>
+Thread      : ddsi2 10351b000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437413060.080865000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqc <53269>
+Thread      : durability 10338c000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437413060.090111000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53269>
+Thread      : ddsi2 10351b000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437413060.103655000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 19:24:20 CEST 2015
+Description : The durability service can by identified by ID: 1843447336
+Node        : vega
+Process     : sqc <53269>
+Thread      : durability 10338c000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437413060.215154000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqc <53903>
+Thread      : spliced 106347000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437426088.217232000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqc <53903>
+Thread      : spliced 106347000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437426088.218964000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53903>
+Thread      : spliced 106347000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437426088.219991000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqc <53903>
+Thread      : cmsoap 1068b3000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437426088.232469000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : SOAP service is reachable via port 57277
+Node        : vega
+Process     : sqc <53903>
+Thread      : cmsoap 1068b3000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437426088.234563000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53903>
+Thread      : cmsoap 1068b3000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437426088.234806000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqc <53903>
+Thread      : durability 106d38000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437426088.236962000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqc <53903>
+Thread      : ddsi2 106f90000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437426088.239364000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqc <53903>
+Thread      : durability 106d38000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437426088.248009000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53903>
+Thread      : ddsi2 106f90000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437426088.261446000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:28 CEST 2015
+Description : The durability service can by identified by ID: 807049377
+Node        : vega
+Process     : sqc <53903>
+Thread      : durability 106d38000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437426088.371888000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:01:30 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <53903>
+Thread      : durability 106d38000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437426090.405152000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqc <55465>
+Thread      : spliced 10d69f000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437429426.504551000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqc <55465>
+Thread      : spliced 10d69f000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429426.505994000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55465>
+Thread      : spliced 10d69f000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429426.506430000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqc <55465>
+Thread      : cmsoap 10dc0b000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429426.508325000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : SOAP service is reachable via port 57893
+Node        : vega
+Process     : sqc <55465>
+Thread      : cmsoap 10dc0b000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437429426.509160000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : Could not find a network interface ip address
+Node        : vega
+Process     : sqc <55465>
+Thread      : cmsoap 10dc0b000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/508/0/1437429426.509280000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55465>
+Thread      : cmsoap 10dc0b000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429426.509356000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqc <55465>
+Thread      : durability 10dfe2000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429426.509484000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqc <55465>
+Thread      : ddsi2 10e21f000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429426.510169000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqc <55465>
+Thread      : durability 10dfe2000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437429426.518671000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55465>
+Thread      : ddsi2 10e21f000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429426.525587000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:06 CEST 2015
+Description : The durability service can by identified by ID: 1430300522
+Node        : vega
+Process     : sqc <55465>
+Thread      : durability 10dfe2000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437429426.631977000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:09 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55465>
+Thread      : durability 10dfe2000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429429.749323000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqp <55470>
+Thread      : spliced 109629000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437429438.976001000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqp <55470>
+Thread      : spliced 109629000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429438.977119000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55470>
+Thread      : spliced 109629000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429438.977763000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqp <55470>
+Thread      : cmsoap 109b95000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429438.979268000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : SOAP service is reachable via port 57894
+Node        : vega
+Process     : sqp <55470>
+Thread      : cmsoap 109b95000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437429438.979998000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : Could not find a network interface ip address
+Node        : vega
+Process     : sqp <55470>
+Thread      : cmsoap 109b95000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/508/0/1437429438.980081000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55470>
+Thread      : cmsoap 109b95000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429438.980116000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqp <55470>
+Thread      : durability 109f6c000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429438.980295000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqp <55470>
+Thread      : ddsi2 10a166000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429438.980778000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqp <55470>
+Thread      : durability 109f6c000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437429438.989364000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:18 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55470>
+Thread      : ddsi2 10a166000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429438.998184000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:19 CEST 2015
+Description : The durability service can by identified by ID: 2043824313
+Node        : vega
+Process     : sqp <55470>
+Thread      : durability 109f6c000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437429439.204085000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:21 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55470>
+Thread      : durability 109f6c000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429441.719340000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:30 CEST 2015
+Description : Termination request (signal 2) received from PID 55470 (self), UID 501
+Node        : vega
+Process     : sqp <55470>
+Thread      : signalHandler 1095d7000
+Internals   : V6.5.0///signalHandlerThread/os_signalHandler.c/497/0/1437429450.895477000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqp <55472>
+Thread      : spliced 10bdd5000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437429453.826155000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqp <55472>
+Thread      : spliced 10bdd5000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429453.827126000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55472>
+Thread      : spliced 10bdd5000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429453.827581000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqp <55472>
+Thread      : cmsoap 10c341000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429453.828744000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : SOAP service is reachable via port 57895
+Node        : vega
+Process     : sqp <55472>
+Thread      : cmsoap 10c341000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437429453.829455000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : Could not find a network interface ip address
+Node        : vega
+Process     : sqp <55472>
+Thread      : cmsoap 10c341000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/508/0/1437429453.829570000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqp <55472>
+Thread      : durability 10c718000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429453.829587000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55472>
+Thread      : cmsoap 10c341000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429453.829619000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqp <55472>
+Thread      : ddsi2 10c8a7000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429453.830029000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqp <55472>
+Thread      : durability 10c718000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437429453.838811000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:33 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55472>
+Thread      : ddsi2 10c8a7000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429453.847626000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:34 CEST 2015
+Description : The durability service can by identified by ID: 633194285
+Node        : vega
+Process     : sqp <55472>
+Thread      : durability 10c718000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437429454.054464000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:36 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqp <55472>
+Thread      : durability 10c718000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429456.569877000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:42 CEST 2015
+Description : Missed heartbeat for node 2043824313. (DCPSPublication state 1)
+Node        : vega
+Process     : sqc <55465>
+Thread      : OSPL Garbage Collector 10d974000
+Internals   : V6.5.0///v_spliced/v_spliced.c/2508/773/1437429462.534998000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:43 CEST 2015
+Description : Termination request (signal 2) received from PID 55465 (self), UID 501
+Node        : vega
+Process     : sqc <55465>
+Thread      : signalHandler 10d64d000
+Internals   : V6.5.0///signalHandlerThread/os_signalHandler.c/497/0/1437429463.873854000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqc <55473>
+Thread      : spliced 107d52000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437429467.229611000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqc <55473>
+Thread      : spliced 107d52000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429467.230657000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55473>
+Thread      : spliced 107d52000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429467.231087000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqc <55473>
+Thread      : cmsoap 1082be000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429467.232277000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : SOAP service is reachable via port 57896
+Node        : vega
+Process     : sqc <55473>
+Thread      : cmsoap 1082be000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437429467.233051000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : Could not find a network interface ip address
+Node        : vega
+Process     : sqc <55473>
+Thread      : cmsoap 1082be000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/508/0/1437429467.233203000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55473>
+Thread      : cmsoap 1082be000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429467.233302000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqc <55473>
+Thread      : durability 108695000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429467.233493000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqc <55473>
+Thread      : ddsi2 1088d2000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437429467.234033000
+========================================================================================
+Report      : WARNING
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqc <55473>
+Thread      : durability 108695000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437429467.242946000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55473>
+Thread      : ddsi2 1088d2000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429467.251661000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:47 CEST 2015
+Description : The durability service can by identified by ID: 1209722850
+Node        : vega
+Process     : sqc <55473>
+Thread      : durability 108695000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437429467.356101000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:49 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55473>
+Thread      : durability 108695000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437429469.871166000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:55 CEST 2015
+Description : Missed heartbeat for node 1430300522. (DCPSPublication state 1)
+Node        : vega
+Process     : sqp <55472>
+Thread      : OSPL Garbage Collector 10c0aa000
+Internals   : V6.5.0///v_spliced/v_spliced.c/2508/773/1437429475.847241000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:57:56 CEST 2015
+Description : Termination request (signal 2) received from PID 55473 (self), UID 501
+Node        : vega
+Process     : sqc <55473>
+Thread      : signalHandler 107d00000
+Internals   : V6.5.0///signalHandlerThread/os_signalHandler.c/497/0/1437429476.212883000
+========================================================================================
+Report      : INFO
+Date        : Mon Jul 20 23:58:07 CEST 2015
+Description : Missed heartbeat for node 1209722850. (DCPSPublication state 1)
+Node        : vega
+Process     : sqp <55472>
+Thread      : OSPL Garbage Collector 10c0aa000
+Internals   : V6.5.0///v_spliced/v_spliced.c/2508/773/1437429487.849595000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : ---------------------------------------------------------------
+              -- The service is using the following configuration settings --
+              ---------------------------------------------------------------
+              Domain (id)          : ospl_sp_ddsi (0)
+              Storage              : 10240 Kbytes
+              Storage threshold    : 1024 Kbytes
+              Storage address      : Not available
+              Locking              : default
+              Memory mode          : Heap memory
+              Builtin topics       : true
+              Priority inheritance : false
+Node        : vega
+Process     : sqc <55532>
+Thread      : spliced 1042ee000
+Internals   : V6.5.0///The OpenSplice domain service/u_domain.c/566/0/1437430153.547728000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : Service 'splicedaemon': Locking disabled
+Node        : vega
+Process     : sqc <55532>
+Thread      : spliced 1042ee000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437430153.548898000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'splicedaemon' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55532>
+Thread      : spliced 1042ee000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437430153.549327000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : Service 'cmsoap': Locking disabled
+Node        : vega
+Process     : sqc <55532>
+Thread      : cmsoap 10485a000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437430153.550989000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : SOAP service is reachable via port 57897
+Node        : vega
+Process     : sqc <55532>
+Thread      : cmsoap 10485a000
+Internals   : V6.5.0///CM SOAP Service/cms_service.c/469/0/1437430153.551592000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'cmsoap' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55532>
+Thread      : cmsoap 10485a000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437430153.551732000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : Service 'durability': Locking disabled
+Node        : vega
+Process     : sqc <55532>
+Thread      : durability 104cdf000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437430153.552341000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : Service 'ddsi2': Locking disabled
+Node        : vega
+Process     : sqc <55532>
+Thread      : ddsi2 104f37000
+Internals   : V6.5.0///u_serviceInit/u_service.c/416/256/1437430153.552912000
+========================================================================================
+Report      : WARNING
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : TimeToWaitForAligner currently only supports 0.0 and 1.0 (infinite), using 1.0 for now
+Node        : vega
+Process     : sqc <55532>
+Thread      : durability 104cdf000
+Internals   : V6.5.0///DurabilityService/d_configuration.c/1901/0/1437430153.560903000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'ddsi2' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55532>
+Thread      : ddsi2 104f37000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437430153.567271000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:13 CEST 2015
+Description : The durability service can by identified by ID: 631857140
+Node        : vega
+Process     : sqc <55532>
+Thread      : durability 104cdf000
+Internals   : V6.5.0///DurabilityService/d_durability.c/600/0/1437430153.773403000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:15 CEST 2015
+Description : ++++++++++++++++++++++++++++++++++++++++++++++++
+              ++ The service 'durability' is now operational. 
+              ++++++++++++++++++++++++++++++++++++++++++++++++
+Node        : vega
+Process     : sqc <55532>
+Thread      : durability 104cdf000
+Internals   : V6.5.0///v_serviceChangeState/v_service.c/277/0/1437430155.784788000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:22 CEST 2015
+Description : Termination request (signal 2) received from PID 55532 (self), UID 501
+Node        : vega
+Process     : sqc <55532>
+Thread      : signalHandler 10429c000
+Internals   : V6.5.0///signalHandlerThread/os_signalHandler.c/497/0/1437430162.313064000
+========================================================================================
+Report      : INFO
+Date        : Tue Jul 21 00:09:23 CEST 2015
+Description : Termination request (signal 2) received from PID 55472 (self), UID 501
+Node        : vega
+Process     : sqp <55472>
+Thread      : signalHandler 10bd83000
+Internals   : V6.5.0///signalHandlerThread/os_signalHandler.c/497/0/1437430163.977645000

@@ -1,0 +1,10 @@
+module dilib {
+  module demo {
+    
+    struct Message {
+      string key;
+      string body;
+    };
+    #pragma keylist Message key
+  };
+};
